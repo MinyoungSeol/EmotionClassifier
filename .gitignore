@@ -1,0 +1,10 @@
+# Python virtual env folders
+venv/
+__pycache__/
+*.pyc
+
+# IDE config
+.vscode/
+
+# Notebooks
+notebooks/
