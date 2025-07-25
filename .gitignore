@@ -8,3 +8,6 @@ __pycache__/
 
 # Notebooks
 notebooks/
+
+# data
+data/
